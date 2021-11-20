@@ -1,4 +1,4 @@
-diseases={
+diseases = {
   "valueSetId": "disease-agent-targeted",
   "valueSetDate": "2021-04-27",
   "valueSetValues": {

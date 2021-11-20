@@ -1,4 +1,4 @@
-testResultObj={
+testResultObj = {
   "valueSetId": "covid-19-lab-result",
   "valueSetDate": "2021-04-27",
   "valueSetValues": {

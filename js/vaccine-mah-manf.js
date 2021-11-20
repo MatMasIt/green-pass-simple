@@ -1,4 +1,4 @@
-manufacturer={
+manufacturer = {
   "valueSetId": "vaccines-covid-19-auth-holders",
   "valueSetDate": "2021-04-27",
   "valueSetValues": {

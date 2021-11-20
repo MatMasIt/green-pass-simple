@@ -1,4 +1,4 @@
-prophylaxis={
+prophylaxis = {
   "valueSetId": "sct-vaccines-covid-19",
   "valueSetDate": "2021-04-27",
   "valueSetValues": {

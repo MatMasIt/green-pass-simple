@@ -1,4 +1,4 @@
-product={
+product = {
   "valueSetId": "vaccines-covid-19-names",
   "valueSetDate": "2021-04-27",
   "valueSetValues": {
